@@ -1,0 +1,3047 @@
+{
+    "data": [
+        {
+            "id": 5856730,
+            "type": "products",
+            "attributes": {
+                "name": "Zonrox Bleach Colorsafe Blossom Fresh",
+                "description": "Zonrox Bleach Colorsafe Blossom Fresh is specially formulated to deliver a powerful clean while being gentle on colored fabrics. It effectively removes tough stains and brightens colors, leaving your laundry with a refreshing blossom scent. Perfect for everyday use, this bleach ensures your clothes maintain their vibrant hues without fading.",
+                "size": "900 ml",
+                "sold-as": null,
+                "amount-in-cents": 6475,
+                "base-amount-in-cents": 6475,
+                "percent-off": null,
+                "bulk": false,
+                "bulk-quantity-threshold": 0,
+                "image-url": "https://img.imageboss.me/metromart/cdn/products/5856730/image-1731907973.jpg",
+                "image-740x740": "https://img.imageboss.me/metromart/height/740/products/5856730/image-1731907973.jpg",
+                "weight-multiplier": null,
+                "weight-metric": null,
+                "status": "available",
+                "alcoholic": false,
+                "require-legal-age": false,
+                "delicate": false,
+                "max-items-count": 20,
+                "priority": 0,
+                "weighted": false,
+                "buy-x-take-y": false,
+                "buy-x": null,
+                "take-y": null,
+                "weighted-disclaimer": null,
+                "dhz-campaign-brand-priority": null,
+                "sari-sari-max-items-count": 1000,
+                "business-max-items-count": 999999
+            },
+            "relationships": {
+                "shop": {
+                    "data": {
+                        "id": 2106,
+                        "type": "shops"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856730/shop"
+                    }
+                },
+                "aisle": {
+                    "data": {
+                        "id": 174570,
+                        "type": "aisles"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856730/aisle"
+                    }
+                },
+                "department": {
+                    "data": {
+                        "id": 43732,
+                        "type": "departments"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856730/department"
+                    }
+                },
+                "weights": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856730/weights"
+                    }
+                },
+                "fmcg-campaign": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856730/fmcg-campaign"
+                    }
+                },
+                "dhz-campaign-brand": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856730/dhz-campaign-brand"
+                    }
+                },
+                "take-y-products": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856730/take-y-products"
+                    }
+                },
+                "buy-x-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856730/buy-x-weight"
+                    }
+                },
+                "take-y-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856730/take-y-weight"
+                    }
+                }
+            },
+            "links": {
+                "self": "https://api.metromart.com/api/v1/products/5856730"
+            }
+        },
+        {
+            "id": 5856744,
+            "type": "products",
+            "attributes": {
+                "name": "Zonrox Bleach Lemon",
+                "description": "Zonrox Bleach Lemon is a powerful cleaning agent that combines effective stain removal with the refreshing scent of lemon. Ideal for tackling tough stains and disinfecting surfaces, this bleach is perfect for maintaining a clean and hygienic home environment. Its lemon fragrance leaves a fresh scent after cleaning, ensuring your space not only looks clean but smells inviting too.",
+                "size": "500 ml",
+                "sold-as": null,
+                "amount-in-cents": 2775,
+                "base-amount-in-cents": 2775,
+                "percent-off": null,
+                "bulk": false,
+                "bulk-quantity-threshold": 0,
+                "image-url": "https://img.imageboss.me/metromart/cdn/products/5856744/image-1731907974.jpg",
+                "image-740x740": "https://img.imageboss.me/metromart/height/740/products/5856744/image-1731907974.jpg",
+                "weight-multiplier": null,
+                "weight-metric": null,
+                "status": "available",
+                "alcoholic": false,
+                "require-legal-age": false,
+                "delicate": false,
+                "max-items-count": 20,
+                "priority": 0,
+                "weighted": false,
+                "buy-x-take-y": false,
+                "buy-x": null,
+                "take-y": null,
+                "weighted-disclaimer": null,
+                "dhz-campaign-brand-priority": null,
+                "sari-sari-max-items-count": 1000,
+                "business-max-items-count": 999999
+            },
+            "relationships": {
+                "shop": {
+                    "data": {
+                        "id": 2106,
+                        "type": "shops"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856744/shop"
+                    }
+                },
+                "aisle": {
+                    "data": {
+                        "id": 174570,
+                        "type": "aisles"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856744/aisle"
+                    }
+                },
+                "department": {
+                    "data": {
+                        "id": 43732,
+                        "type": "departments"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856744/department"
+                    }
+                },
+                "weights": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856744/weights"
+                    }
+                },
+                "fmcg-campaign": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856744/fmcg-campaign"
+                    }
+                },
+                "dhz-campaign-brand": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856744/dhz-campaign-brand"
+                    }
+                },
+                "take-y-products": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856744/take-y-products"
+                    }
+                },
+                "buy-x-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856744/buy-x-weight"
+                    }
+                },
+                "take-y-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856744/take-y-weight"
+                    }
+                }
+            },
+            "links": {
+                "self": "https://api.metromart.com/api/v1/products/5856744"
+            }
+        },
+        {
+            "id": 5856716,
+            "type": "products",
+            "attributes": {
+                "name": "Surf Bar Detergent Kalamansi Long Bar",
+                "description": "Surf Bar Detergent Kalamansi Long Bar offers a refreshing cleaning experience with the invigorating scent of kalamansi. This long-lasting bar is designed to effectively remove dirt and stains while leaving your clothes smelling fresh. Ideal for handwashing, it produces a rich lather that ensures a thorough clean. Experience the powerful cleaning action and delightful fragrance with every wash.",
+                "size": "360 g",
+                "sold-as": null,
+                "amount-in-cents": 2300,
+                "base-amount-in-cents": 2300,
+                "percent-off": null,
+                "bulk": false,
+                "bulk-quantity-threshold": 0,
+                "image-url": "https://img.imageboss.me/metromart/cdn/products/5856716/image-1731907973.jpg",
+                "image-740x740": "https://img.imageboss.me/metromart/height/740/products/5856716/image-1731907973.jpg",
+                "weight-multiplier": null,
+                "weight-metric": null,
+                "status": "available",
+                "alcoholic": false,
+                "require-legal-age": false,
+                "delicate": false,
+                "max-items-count": 20,
+                "priority": 0,
+                "weighted": false,
+                "buy-x-take-y": false,
+                "buy-x": null,
+                "take-y": null,
+                "weighted-disclaimer": null,
+                "dhz-campaign-brand-priority": null,
+                "sari-sari-max-items-count": 1000,
+                "business-max-items-count": 999999
+            },
+            "relationships": {
+                "shop": {
+                    "data": {
+                        "id": 2106,
+                        "type": "shops"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856716/shop"
+                    }
+                },
+                "aisle": {
+                    "data": {
+                        "id": 174570,
+                        "type": "aisles"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856716/aisle"
+                    }
+                },
+                "department": {
+                    "data": {
+                        "id": 43732,
+                        "type": "departments"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856716/department"
+                    }
+                },
+                "weights": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856716/weights"
+                    }
+                },
+                "fmcg-campaign": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856716/fmcg-campaign"
+                    }
+                },
+                "dhz-campaign-brand": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856716/dhz-campaign-brand"
+                    }
+                },
+                "take-y-products": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856716/take-y-products"
+                    }
+                },
+                "buy-x-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856716/buy-x-weight"
+                    }
+                },
+                "take-y-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856716/take-y-weight"
+                    }
+                }
+            },
+            "links": {
+                "self": "https://api.metromart.com/api/v1/products/5856716"
+            }
+        },
+        {
+            "id": 6025989,
+            "type": "products",
+            "attributes": {
+                "name": "Del Fabric Conditioner Showerfresh Blue Refill",
+                "description": "Del Fabric Conditioner Showerfresh Blue Refill enhances your laundry with a burst of refreshing fragrance, leaving your clothes smelling irresistibly fresh. This convenient refill pack is designed for easy pouring and storage, making it a practical choice for those who love to keep their garments soft and fragrant. Extend the life of your clothes while enjoying the invigorating scent of Showerfresh Blue.",
+                "size": "1000 ml",
+                "sold-as": null,
+                "amount-in-cents": 15775,
+                "base-amount-in-cents": 15775,
+                "percent-off": null,
+                "bulk": false,
+                "bulk-quantity-threshold": 0,
+                "image-url": "https://img.imageboss.me/metromart/cdn/products/6025989/image-1745994979.jpg",
+                "image-740x740": "https://img.imageboss.me/metromart/height/740/products/6025989/image-1745994979.jpg",
+                "weight-multiplier": null,
+                "weight-metric": null,
+                "status": "available",
+                "alcoholic": false,
+                "require-legal-age": false,
+                "delicate": false,
+                "max-items-count": 20,
+                "priority": 0,
+                "weighted": false,
+                "buy-x-take-y": false,
+                "buy-x": null,
+                "take-y": null,
+                "weighted-disclaimer": null,
+                "dhz-campaign-brand-priority": null,
+                "sari-sari-max-items-count": 1000,
+                "business-max-items-count": 999999
+            },
+            "relationships": {
+                "shop": {
+                    "data": {
+                        "id": 2106,
+                        "type": "shops"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6025989/shop"
+                    }
+                },
+                "aisle": {
+                    "data": {
+                        "id": 174570,
+                        "type": "aisles"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6025989/aisle"
+                    }
+                },
+                "department": {
+                    "data": {
+                        "id": 43732,
+                        "type": "departments"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6025989/department"
+                    }
+                },
+                "weights": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6025989/weights"
+                    }
+                },
+                "fmcg-campaign": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6025989/fmcg-campaign"
+                    }
+                },
+                "dhz-campaign-brand": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6025989/dhz-campaign-brand"
+                    }
+                },
+                "take-y-products": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6025989/take-y-products"
+                    }
+                },
+                "buy-x-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6025989/buy-x-weight"
+                    }
+                },
+                "take-y-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6025989/take-y-weight"
+                    }
+                }
+            },
+            "links": {
+                "self": "https://api.metromart.com/api/v1/products/6025989"
+            }
+        },
+        {
+            "id": 6025985,
+            "type": "products",
+            "attributes": {
+                "name": "Del Fabric Conditioner Blossom Pink",
+                "description": "Del Fabric Conditioner Blossom Pink provides your laundry with a refreshing floral fragrance that lingers long after wash day. This conditioner softens clothes while protecting the fibers, ensuring your garments stay vibrant and feel gentle against your skin. Perfect for use with any wash load, it leaves your clothes smelling fresh and feeling luxurious with every use.",
+                "size": "22 ml x 6 pcs",
+                "sold-as": null,
+                "amount-in-cents": 2600,
+                "base-amount-in-cents": 2600,
+                "percent-off": null,
+                "bulk": false,
+                "bulk-quantity-threshold": 0,
+                "image-url": "https://img.imageboss.me/metromart/cdn/products/6025985/image-1745994979.jpg",
+                "image-740x740": "https://img.imageboss.me/metromart/height/740/products/6025985/image-1745994979.jpg",
+                "weight-multiplier": null,
+                "weight-metric": null,
+                "status": "available",
+                "alcoholic": false,
+                "require-legal-age": false,
+                "delicate": false,
+                "max-items-count": 20,
+                "priority": 0,
+                "weighted": false,
+                "buy-x-take-y": false,
+                "buy-x": null,
+                "take-y": null,
+                "weighted-disclaimer": null,
+                "dhz-campaign-brand-priority": null,
+                "sari-sari-max-items-count": 1000,
+                "business-max-items-count": 999999
+            },
+            "relationships": {
+                "shop": {
+                    "data": {
+                        "id": 2106,
+                        "type": "shops"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6025985/shop"
+                    }
+                },
+                "aisle": {
+                    "data": {
+                        "id": 174570,
+                        "type": "aisles"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6025985/aisle"
+                    }
+                },
+                "department": {
+                    "data": {
+                        "id": 43732,
+                        "type": "departments"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6025985/department"
+                    }
+                },
+                "weights": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6025985/weights"
+                    }
+                },
+                "fmcg-campaign": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6025985/fmcg-campaign"
+                    }
+                },
+                "dhz-campaign-brand": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6025985/dhz-campaign-brand"
+                    }
+                },
+                "take-y-products": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6025985/take-y-products"
+                    }
+                },
+                "buy-x-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6025985/buy-x-weight"
+                    }
+                },
+                "take-y-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6025985/take-y-weight"
+                    }
+                }
+            },
+            "links": {
+                "self": "https://api.metromart.com/api/v1/products/6025985"
+            }
+        },
+        {
+            "id": 5856765,
+            "type": "products",
+            "attributes": {
+                "name": "Pride Detergent Powder Antibac",
+                "description": "Pride Detergent Powder Antibac is specially formulated to tackle tough stains and bacteria, ensuring your clothes are not only clean but also hygienically fresh. Its powerful antibacterial properties provide an added layer of protection, making it ideal for families who prioritize cleanliness and health. Suitable for both hand washing and machine use, this detergent powder delivers excellent results with every wash.",
+                "size": "1 kg",
+                "sold-as": null,
+                "amount-in-cents": 10275,
+                "base-amount-in-cents": 10275,
+                "percent-off": null,
+                "bulk": false,
+                "bulk-quantity-threshold": 0,
+                "image-url": "https://img.imageboss.me/metromart/cdn/products/5856765/image-1731907975.jpg",
+                "image-740x740": "https://img.imageboss.me/metromart/height/740/products/5856765/image-1731907975.jpg",
+                "weight-multiplier": null,
+                "weight-metric": null,
+                "status": "available",
+                "alcoholic": false,
+                "require-legal-age": false,
+                "delicate": false,
+                "max-items-count": 20,
+                "priority": 0,
+                "weighted": false,
+                "buy-x-take-y": false,
+                "buy-x": null,
+                "take-y": null,
+                "weighted-disclaimer": null,
+                "dhz-campaign-brand-priority": null,
+                "sari-sari-max-items-count": 1000,
+                "business-max-items-count": 999999
+            },
+            "relationships": {
+                "shop": {
+                    "data": {
+                        "id": 2106,
+                        "type": "shops"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856765/shop"
+                    }
+                },
+                "aisle": {
+                    "data": {
+                        "id": 174570,
+                        "type": "aisles"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856765/aisle"
+                    }
+                },
+                "department": {
+                    "data": {
+                        "id": 43732,
+                        "type": "departments"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856765/department"
+                    }
+                },
+                "weights": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856765/weights"
+                    }
+                },
+                "fmcg-campaign": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856765/fmcg-campaign"
+                    }
+                },
+                "dhz-campaign-brand": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856765/dhz-campaign-brand"
+                    }
+                },
+                "take-y-products": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856765/take-y-products"
+                    }
+                },
+                "buy-x-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856765/buy-x-weight"
+                    }
+                },
+                "take-y-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856765/take-y-weight"
+                    }
+                }
+            },
+            "links": {
+                "self": "https://api.metromart.com/api/v1/products/5856765"
+            }
+        },
+        {
+            "id": 5858665,
+            "type": "products",
+            "attributes": {
+                "name": "Pride Bar Blue",
+                "description": "Pride Bar Blue is a vibrant, refreshing snack designed to celebrate and support diversity and inclusion. With its striking blue color and delicious taste, it is perfect for those who want to enjoy a treat while also making a statement. Whether you're at a parade or simply enjoying a day out, Pride Bar Blue adds a splash of color and flavor to any occasion.",
+                "size": "380 g",
+                "sold-as": null,
+                "amount-in-cents": 2275,
+                "base-amount-in-cents": 2275,
+                "percent-off": null,
+                "bulk": false,
+                "bulk-quantity-threshold": 0,
+                "image-url": "https://img.imageboss.me/metromart/cdn/products/5858665/image-1731908069.jpg",
+                "image-740x740": "https://img.imageboss.me/metromart/height/740/products/5858665/image-1731908069.jpg",
+                "weight-multiplier": null,
+                "weight-metric": null,
+                "status": "available",
+                "alcoholic": false,
+                "require-legal-age": false,
+                "delicate": false,
+                "max-items-count": 20,
+                "priority": 0,
+                "weighted": false,
+                "buy-x-take-y": false,
+                "buy-x": null,
+                "take-y": null,
+                "weighted-disclaimer": null,
+                "dhz-campaign-brand-priority": null,
+                "sari-sari-max-items-count": 1000,
+                "business-max-items-count": 999999
+            },
+            "relationships": {
+                "shop": {
+                    "data": {
+                        "id": 2106,
+                        "type": "shops"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858665/shop"
+                    }
+                },
+                "aisle": {
+                    "data": {
+                        "id": 174570,
+                        "type": "aisles"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858665/aisle"
+                    }
+                },
+                "department": {
+                    "data": {
+                        "id": 43732,
+                        "type": "departments"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858665/department"
+                    }
+                },
+                "weights": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858665/weights"
+                    }
+                },
+                "fmcg-campaign": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858665/fmcg-campaign"
+                    }
+                },
+                "dhz-campaign-brand": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858665/dhz-campaign-brand"
+                    }
+                },
+                "take-y-products": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858665/take-y-products"
+                    }
+                },
+                "buy-x-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858665/buy-x-weight"
+                    }
+                },
+                "take-y-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858665/take-y-weight"
+                    }
+                }
+            },
+            "links": {
+                "self": "https://api.metromart.com/api/v1/products/5858665"
+            }
+        },
+        {
+            "id": 5856622,
+            "type": "products",
+            "attributes": {
+                "name": "Downy Fabcon Passion Tripid",
+                "description": "Downy Fabcon Passion Tripid is a fabric conditioner that infuses your laundry with a long-lasting fragrance, ensuring your clothes smell fresh and vibrant after every wash. Its unique formula helps soften fabrics while maintaining their quality, giving your garments a luxurious feel. Ideal for everyday use, this fabric softener is designed to make your laundry routine more enjoyable with its captivating scent.",
+                "size": "63 ml x 6 pcs",
+                "sold-as": null,
+                "amount-in-cents": 10275,
+                "base-amount-in-cents": 10275,
+                "percent-off": null,
+                "bulk": false,
+                "bulk-quantity-threshold": 0,
+                "image-url": "https://img.imageboss.me/metromart/cdn/products/5856622/image-1731907967.jpg",
+                "image-740x740": "https://img.imageboss.me/metromart/height/740/products/5856622/image-1731907967.jpg",
+                "weight-multiplier": null,
+                "weight-metric": null,
+                "status": "available",
+                "alcoholic": false,
+                "require-legal-age": false,
+                "delicate": false,
+                "max-items-count": 20,
+                "priority": 0,
+                "weighted": false,
+                "buy-x-take-y": false,
+                "buy-x": null,
+                "take-y": null,
+                "weighted-disclaimer": null,
+                "dhz-campaign-brand-priority": null,
+                "sari-sari-max-items-count": 1000,
+                "business-max-items-count": 999999
+            },
+            "relationships": {
+                "shop": {
+                    "data": {
+                        "id": 2106,
+                        "type": "shops"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856622/shop"
+                    }
+                },
+                "aisle": {
+                    "data": {
+                        "id": 174570,
+                        "type": "aisles"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856622/aisle"
+                    }
+                },
+                "department": {
+                    "data": {
+                        "id": 43732,
+                        "type": "departments"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856622/department"
+                    }
+                },
+                "weights": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856622/weights"
+                    }
+                },
+                "fmcg-campaign": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856622/fmcg-campaign"
+                    }
+                },
+                "dhz-campaign-brand": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856622/dhz-campaign-brand"
+                    }
+                },
+                "take-y-products": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856622/take-y-products"
+                    }
+                },
+                "buy-x-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856622/buy-x-weight"
+                    }
+                },
+                "take-y-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856622/take-y-weight"
+                    }
+                }
+            },
+            "links": {
+                "self": "https://api.metromart.com/api/v1/products/5856622"
+            }
+        },
+        {
+            "id": 5856541,
+            "type": "products",
+            "attributes": {
+                "name": "Ariel Detergent Powder Sunrise Fresh",
+                "description": "Ariel Detergent Powder Sunrise Fresh offers a brilliant clean with a fresh, uplifting scent. Perfect for both top and front-loading washing machines, it effectively tackles tough stains while keeping your clothes vibrant and smelling delightful. It's a reliable choice for households looking to maintain the integrity and freshness of their laundry.",
+                "size": "6 g x 6 pcs",
+                "sold-as": null,
+                "amount-in-cents": 8450,
+                "base-amount-in-cents": 8450,
+                "percent-off": null,
+                "bulk": false,
+                "bulk-quantity-threshold": 0,
+                "image-url": "https://img.imageboss.me/metromart/cdn/products/5856541/image-1731907962.jpg",
+                "image-740x740": "https://img.imageboss.me/metromart/height/740/products/5856541/image-1731907962.jpg",
+                "weight-multiplier": null,
+                "weight-metric": null,
+                "status": "available",
+                "alcoholic": false,
+                "require-legal-age": false,
+                "delicate": false,
+                "max-items-count": 20,
+                "priority": 0,
+                "weighted": false,
+                "buy-x-take-y": false,
+                "buy-x": null,
+                "take-y": null,
+                "weighted-disclaimer": null,
+                "dhz-campaign-brand-priority": null,
+                "sari-sari-max-items-count": 1000,
+                "business-max-items-count": 999999
+            },
+            "relationships": {
+                "shop": {
+                    "data": {
+                        "id": 2106,
+                        "type": "shops"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856541/shop"
+                    }
+                },
+                "aisle": {
+                    "data": {
+                        "id": 174570,
+                        "type": "aisles"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856541/aisle"
+                    }
+                },
+                "department": {
+                    "data": {
+                        "id": 43732,
+                        "type": "departments"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856541/department"
+                    }
+                },
+                "weights": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856541/weights"
+                    }
+                },
+                "fmcg-campaign": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856541/fmcg-campaign"
+                    }
+                },
+                "dhz-campaign-brand": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856541/dhz-campaign-brand"
+                    }
+                },
+                "take-y-products": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856541/take-y-products"
+                    }
+                },
+                "buy-x-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856541/buy-x-weight"
+                    }
+                },
+                "take-y-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856541/take-y-weight"
+                    }
+                }
+            },
+            "links": {
+                "self": "https://api.metromart.com/api/v1/products/5856541"
+            }
+        },
+        {
+            "id": 5858657,
+            "type": "products",
+            "attributes": {
+                "name": "Surf Detergent Powder Cherry Blossom Pouch",
+                "description": "Experience a burst of freshness with Surf Detergent Powder Cherry Blossom Pouch. Infused with the delicate scent of cherry blossoms, this detergent ensures your clothes not only come out sparkling clean but also smell delightful. Its advanced formula effectively tackles tough stains while being gentle on fabrics, making it a perfect choice for everyday laundry needs. Enjoy the perfect blend of cleanliness and a refreshing aroma with every wash.",
+                "size": "3.6 kg",
+                "sold-as": null,
+                "amount-in-cents": 34675,
+                "base-amount-in-cents": 34675,
+                "percent-off": null,
+                "bulk": false,
+                "bulk-quantity-threshold": 0,
+                "image-url": "https://img.imageboss.me/metromart/cdn/products/5858657/image-1731908069.jpg",
+                "image-740x740": "https://img.imageboss.me/metromart/height/740/products/5858657/image-1731908069.jpg",
+                "weight-multiplier": null,
+                "weight-metric": null,
+                "status": "available",
+                "alcoholic": false,
+                "require-legal-age": false,
+                "delicate": false,
+                "max-items-count": 20,
+                "priority": 0,
+                "weighted": false,
+                "buy-x-take-y": false,
+                "buy-x": null,
+                "take-y": null,
+                "weighted-disclaimer": null,
+                "dhz-campaign-brand-priority": null,
+                "sari-sari-max-items-count": 1000,
+                "business-max-items-count": 999999
+            },
+            "relationships": {
+                "shop": {
+                    "data": {
+                        "id": 2106,
+                        "type": "shops"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858657/shop"
+                    }
+                },
+                "aisle": {
+                    "data": {
+                        "id": 174570,
+                        "type": "aisles"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858657/aisle"
+                    }
+                },
+                "department": {
+                    "data": {
+                        "id": 43732,
+                        "type": "departments"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858657/department"
+                    }
+                },
+                "weights": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858657/weights"
+                    }
+                },
+                "fmcg-campaign": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858657/fmcg-campaign"
+                    }
+                },
+                "dhz-campaign-brand": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858657/dhz-campaign-brand"
+                    }
+                },
+                "take-y-products": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858657/take-y-products"
+                    }
+                },
+                "buy-x-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858657/buy-x-weight"
+                    }
+                },
+                "take-y-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858657/take-y-weight"
+                    }
+                }
+            },
+            "links": {
+                "self": "https://api.metromart.com/api/v1/products/5858657"
+            }
+        },
+        {
+            "id": 5858408,
+            "type": "products",
+            "attributes": {
+                "name": "Surf Liquid Detergent Rose Fresh",
+                "description": "Surf Liquid Detergent Rose Fresh delivers a burst of floral freshness that leaves your clothes smelling like a garden in bloom. This powerful formula effectively removes stains while infusing your laundry with the delightful scent of roses, ensuring a clean and invigorating washing experience every time.",
+                "size": "64 ml x 6 pcs",
+                "sold-as": null,
+                "amount-in-cents": 4775,
+                "base-amount-in-cents": 4775,
+                "percent-off": null,
+                "bulk": false,
+                "bulk-quantity-threshold": 0,
+                "image-url": "https://img.imageboss.me/metromart/cdn/products/5858408/image-1731908055.jpg",
+                "image-740x740": "https://img.imageboss.me/metromart/height/740/products/5858408/image-1731908055.jpg",
+                "weight-multiplier": null,
+                "weight-metric": null,
+                "status": "available",
+                "alcoholic": false,
+                "require-legal-age": false,
+                "delicate": false,
+                "max-items-count": 20,
+                "priority": 0,
+                "weighted": false,
+                "buy-x-take-y": false,
+                "buy-x": null,
+                "take-y": null,
+                "weighted-disclaimer": null,
+                "dhz-campaign-brand-priority": null,
+                "sari-sari-max-items-count": 1000,
+                "business-max-items-count": 999999
+            },
+            "relationships": {
+                "shop": {
+                    "data": {
+                        "id": 2106,
+                        "type": "shops"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858408/shop"
+                    }
+                },
+                "aisle": {
+                    "data": {
+                        "id": 174570,
+                        "type": "aisles"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858408/aisle"
+                    }
+                },
+                "department": {
+                    "data": {
+                        "id": 43732,
+                        "type": "departments"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858408/department"
+                    }
+                },
+                "weights": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858408/weights"
+                    }
+                },
+                "fmcg-campaign": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858408/fmcg-campaign"
+                    }
+                },
+                "dhz-campaign-brand": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858408/dhz-campaign-brand"
+                    }
+                },
+                "take-y-products": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858408/take-y-products"
+                    }
+                },
+                "buy-x-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858408/buy-x-weight"
+                    }
+                },
+                "take-y-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858408/take-y-weight"
+                    }
+                }
+            },
+            "links": {
+                "self": "https://api.metromart.com/api/v1/products/5858408"
+            }
+        },
+        {
+            "id": 5858412,
+            "type": "products",
+            "attributes": {
+                "name": "Surf Liquid Detergent RoseFresh",
+                "description": "Discover the freshness of Surf Liquid Detergent RoseFresh, a premium cleaning solution that infuses your laundry with a delightful rose fragrance. Designed to tackle tough stains while being gentle on fabrics, this detergent leaves your clothes looking vibrant and smelling irresistibly fresh. Perfect for everyday laundry needs, Surf Liquid Detergent RoseFresh ensures your garments are not only clean but also enveloped in a subtle, long-lasting aroma.",
+                "size": "900 ml",
+                "sold-as": null,
+                "amount-in-cents": 10975,
+                "base-amount-in-cents": 10975,
+                "percent-off": null,
+                "bulk": false,
+                "bulk-quantity-threshold": 0,
+                "image-url": "https://img.imageboss.me/metromart/cdn/products/5858412/image-1731908055.jpg",
+                "image-740x740": "https://img.imageboss.me/metromart/height/740/products/5858412/image-1731908055.jpg",
+                "weight-multiplier": null,
+                "weight-metric": null,
+                "status": "available",
+                "alcoholic": false,
+                "require-legal-age": false,
+                "delicate": false,
+                "max-items-count": 20,
+                "priority": 0,
+                "weighted": false,
+                "buy-x-take-y": false,
+                "buy-x": null,
+                "take-y": null,
+                "weighted-disclaimer": null,
+                "dhz-campaign-brand-priority": null,
+                "sari-sari-max-items-count": 1000,
+                "business-max-items-count": 999999
+            },
+            "relationships": {
+                "shop": {
+                    "data": {
+                        "id": 2106,
+                        "type": "shops"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858412/shop"
+                    }
+                },
+                "aisle": {
+                    "data": {
+                        "id": 174570,
+                        "type": "aisles"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858412/aisle"
+                    }
+                },
+                "department": {
+                    "data": {
+                        "id": 43732,
+                        "type": "departments"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858412/department"
+                    }
+                },
+                "weights": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858412/weights"
+                    }
+                },
+                "fmcg-campaign": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858412/fmcg-campaign"
+                    }
+                },
+                "dhz-campaign-brand": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858412/dhz-campaign-brand"
+                    }
+                },
+                "take-y-products": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858412/take-y-products"
+                    }
+                },
+                "buy-x-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858412/buy-x-weight"
+                    }
+                },
+                "take-y-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858412/take-y-weight"
+                    }
+                }
+            },
+            "links": {
+                "self": "https://api.metromart.com/api/v1/products/5858412"
+            }
+        },
+        {
+            "id": 5858419,
+            "type": "products",
+            "attributes": {
+                "name": "Surf Liquid Detergent Cherry Blossom",
+                "description": "Discover the fresh and delightful scent of Surf Liquid Detergent Cherry Blossom. This detergent not only leaves your clothes sparkling clean but also infuses them with the delicate fragrance of cherry blossoms. Perfect for everyday laundry, its formula ensures a deep clean while being gentle on fabrics, making laundry day a breeze.",
+                "size": "64 ml x 6 pcs",
+                "sold-as": null,
+                "amount-in-cents": 4775,
+                "base-amount-in-cents": 4775,
+                "percent-off": null,
+                "bulk": false,
+                "bulk-quantity-threshold": 0,
+                "image-url": "https://img.imageboss.me/metromart/cdn/products/5858419/image-1731908056.jpg",
+                "image-740x740": "https://img.imageboss.me/metromart/height/740/products/5858419/image-1731908056.jpg",
+                "weight-multiplier": null,
+                "weight-metric": null,
+                "status": "available",
+                "alcoholic": false,
+                "require-legal-age": false,
+                "delicate": false,
+                "max-items-count": 20,
+                "priority": 0,
+                "weighted": false,
+                "buy-x-take-y": false,
+                "buy-x": null,
+                "take-y": null,
+                "weighted-disclaimer": null,
+                "dhz-campaign-brand-priority": null,
+                "sari-sari-max-items-count": 1000,
+                "business-max-items-count": 999999
+            },
+            "relationships": {
+                "shop": {
+                    "data": {
+                        "id": 2106,
+                        "type": "shops"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858419/shop"
+                    }
+                },
+                "aisle": {
+                    "data": {
+                        "id": 174570,
+                        "type": "aisles"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858419/aisle"
+                    }
+                },
+                "department": {
+                    "data": {
+                        "id": 43732,
+                        "type": "departments"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858419/department"
+                    }
+                },
+                "weights": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858419/weights"
+                    }
+                },
+                "fmcg-campaign": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858419/fmcg-campaign"
+                    }
+                },
+                "dhz-campaign-brand": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858419/dhz-campaign-brand"
+                    }
+                },
+                "take-y-products": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858419/take-y-products"
+                    }
+                },
+                "buy-x-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858419/buy-x-weight"
+                    }
+                },
+                "take-y-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858419/take-y-weight"
+                    }
+                }
+            },
+            "links": {
+                "self": "https://api.metromart.com/api/v1/products/5858419"
+            }
+        },
+        {
+            "id": 5858416,
+            "type": "products",
+            "attributes": {
+                "name": "Surf Liquid Detergent RoseFresh Pouch",
+                "description": "Surf Liquid Detergent RoseFresh Pouch is a premium laundry solution that infuses your clothes with a refreshing rose fragrance while effectively removing tough stains. Designed for convenience, this liquid detergent comes in a resealable pouch, making it easy to store and use. Ideal for both hand and machine washing, it ensures your fabrics remain vibrant and clean without any residue.",
+                "size": "2.5 L",
+                "sold-as": null,
+                "amount-in-cents": 29475,
+                "base-amount-in-cents": 29475,
+                "percent-off": null,
+                "bulk": false,
+                "bulk-quantity-threshold": 0,
+                "image-url": "https://img.imageboss.me/metromart/cdn/products/5858416/image-1731908055.jpg",
+                "image-740x740": "https://img.imageboss.me/metromart/height/740/products/5858416/image-1731908055.jpg",
+                "weight-multiplier": null,
+                "weight-metric": null,
+                "status": "available",
+                "alcoholic": false,
+                "require-legal-age": false,
+                "delicate": false,
+                "max-items-count": 20,
+                "priority": 0,
+                "weighted": false,
+                "buy-x-take-y": false,
+                "buy-x": null,
+                "take-y": null,
+                "weighted-disclaimer": null,
+                "dhz-campaign-brand-priority": null,
+                "sari-sari-max-items-count": 1000,
+                "business-max-items-count": 999999
+            },
+            "relationships": {
+                "shop": {
+                    "data": {
+                        "id": 2106,
+                        "type": "shops"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858416/shop"
+                    }
+                },
+                "aisle": {
+                    "data": {
+                        "id": 174570,
+                        "type": "aisles"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858416/aisle"
+                    }
+                },
+                "department": {
+                    "data": {
+                        "id": 43732,
+                        "type": "departments"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858416/department"
+                    }
+                },
+                "weights": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858416/weights"
+                    }
+                },
+                "fmcg-campaign": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858416/fmcg-campaign"
+                    }
+                },
+                "dhz-campaign-brand": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858416/dhz-campaign-brand"
+                    }
+                },
+                "take-y-products": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858416/take-y-products"
+                    }
+                },
+                "buy-x-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858416/buy-x-weight"
+                    }
+                },
+                "take-y-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858416/take-y-weight"
+                    }
+                }
+            },
+            "links": {
+                "self": "https://api.metromart.com/api/v1/products/5858416"
+            }
+        },
+        {
+            "id": 6027795,
+            "type": "products",
+            "attributes": {
+                "name": "Tide Liquid Detergent Refill Brilliant White",
+                "description": "Tide Liquid Detergent Refill Brilliant White is specially formulated to keep your whites brilliantly bright and clean with every wash. Its powerful cleaning agents work effectively to remove tough stains and maintain the vibrancy of your clothing. This refill pack is both convenient and eco-friendly, offering an easy way to replenish your detergent supply while reducing plastic waste.",
+                "size": "730 g",
+                "sold-as": null,
+                "amount-in-cents": 17500,
+                "base-amount-in-cents": 17500,
+                "percent-off": null,
+                "bulk": false,
+                "bulk-quantity-threshold": 0,
+                "image-url": "https://img.imageboss.me/metromart/cdn/products/6027795/image-1745995171.jpg",
+                "image-740x740": "https://img.imageboss.me/metromart/height/740/products/6027795/image-1745995171.jpg",
+                "weight-multiplier": null,
+                "weight-metric": null,
+                "status": "available",
+                "alcoholic": false,
+                "require-legal-age": false,
+                "delicate": false,
+                "max-items-count": 20,
+                "priority": 0,
+                "weighted": false,
+                "buy-x-take-y": false,
+                "buy-x": null,
+                "take-y": null,
+                "weighted-disclaimer": null,
+                "dhz-campaign-brand-priority": null,
+                "sari-sari-max-items-count": 1000,
+                "business-max-items-count": 999999
+            },
+            "relationships": {
+                "shop": {
+                    "data": {
+                        "id": 2106,
+                        "type": "shops"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6027795/shop"
+                    }
+                },
+                "aisle": {
+                    "data": {
+                        "id": 174570,
+                        "type": "aisles"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6027795/aisle"
+                    }
+                },
+                "department": {
+                    "data": {
+                        "id": 43732,
+                        "type": "departments"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6027795/department"
+                    }
+                },
+                "weights": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6027795/weights"
+                    }
+                },
+                "fmcg-campaign": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6027795/fmcg-campaign"
+                    }
+                },
+                "dhz-campaign-brand": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6027795/dhz-campaign-brand"
+                    }
+                },
+                "take-y-products": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6027795/take-y-products"
+                    }
+                },
+                "buy-x-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6027795/buy-x-weight"
+                    }
+                },
+                "take-y-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6027795/take-y-weight"
+                    }
+                }
+            },
+            "links": {
+                "self": "https://api.metromart.com/api/v1/products/6027795"
+            }
+        },
+        {
+            "id": 5856581,
+            "type": "products",
+            "attributes": {
+                "name": "Downy Fabric Conditioner Garden Bloom Refill",
+                "description": "Experience the refreshing scent of a blooming garden with Downy Fabric Conditioner Garden Bloom Refill. This fabric conditioner infuses your clothes with a delightful floral aroma while providing long-lasting freshness and softness. Keep your garments looking new and feeling smooth with every wash.",
+                "size": "660 ml",
+                "sold-as": null,
+                "amount-in-cents": 15975,
+                "base-amount-in-cents": 15975,
+                "percent-off": null,
+                "bulk": false,
+                "bulk-quantity-threshold": 0,
+                "image-url": "https://img.imageboss.me/metromart/cdn/products/5856581/image-1731907965.jpg",
+                "image-740x740": "https://img.imageboss.me/metromart/height/740/products/5856581/image-1731907965.jpg",
+                "weight-multiplier": null,
+                "weight-metric": null,
+                "status": "available",
+                "alcoholic": false,
+                "require-legal-age": false,
+                "delicate": false,
+                "max-items-count": 20,
+                "priority": 0,
+                "weighted": false,
+                "buy-x-take-y": false,
+                "buy-x": null,
+                "take-y": null,
+                "weighted-disclaimer": null,
+                "dhz-campaign-brand-priority": null,
+                "sari-sari-max-items-count": 1000,
+                "business-max-items-count": 999999
+            },
+            "relationships": {
+                "shop": {
+                    "data": {
+                        "id": 2106,
+                        "type": "shops"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856581/shop"
+                    }
+                },
+                "aisle": {
+                    "data": {
+                        "id": 174570,
+                        "type": "aisles"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856581/aisle"
+                    }
+                },
+                "department": {
+                    "data": {
+                        "id": 43732,
+                        "type": "departments"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856581/department"
+                    }
+                },
+                "weights": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856581/weights"
+                    }
+                },
+                "fmcg-campaign": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856581/fmcg-campaign"
+                    }
+                },
+                "dhz-campaign-brand": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856581/dhz-campaign-brand"
+                    }
+                },
+                "take-y-products": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856581/take-y-products"
+                    }
+                },
+                "buy-x-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856581/buy-x-weight"
+                    }
+                },
+                "take-y-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856581/take-y-weight"
+                    }
+                }
+            },
+            "links": {
+                "self": "https://api.metromart.com/api/v1/products/5856581"
+            }
+        },
+        {
+            "id": 6026468,
+            "type": "products",
+            "attributes": {
+                "name": "Surf Bar Detergent Blossom Fresh Jumbo Cut",
+                "description": "Surf Bar Detergent Blossom Fresh Jumbo Cut is a powerful cleaning solution that combines the refreshing scent of blossoms with the robust cleaning action of Surf. Designed for larger loads, this detergent bar ensures your laundry is left impeccably clean and infused with a delightful floral fragrance. Ideal for families or those with frequent laundry needs, its jumbo size offers long-lasting use and exceptional value.",
+                "size": "120 g x 3 pcs",
+                "sold-as": null,
+                "amount-in-cents": 3450,
+                "base-amount-in-cents": 3450,
+                "percent-off": null,
+                "bulk": false,
+                "bulk-quantity-threshold": 0,
+                "image-url": "https://img.imageboss.me/metromart/cdn/products/6026468/image-1745995030.jpg",
+                "image-740x740": "https://img.imageboss.me/metromart/height/740/products/6026468/image-1745995030.jpg",
+                "weight-multiplier": null,
+                "weight-metric": null,
+                "status": "available",
+                "alcoholic": false,
+                "require-legal-age": false,
+                "delicate": false,
+                "max-items-count": 20,
+                "priority": 0,
+                "weighted": false,
+                "buy-x-take-y": false,
+                "buy-x": null,
+                "take-y": null,
+                "weighted-disclaimer": null,
+                "dhz-campaign-brand-priority": null,
+                "sari-sari-max-items-count": 1000,
+                "business-max-items-count": 999999
+            },
+            "relationships": {
+                "shop": {
+                    "data": {
+                        "id": 2106,
+                        "type": "shops"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6026468/shop"
+                    }
+                },
+                "aisle": {
+                    "data": {
+                        "id": 174570,
+                        "type": "aisles"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6026468/aisle"
+                    }
+                },
+                "department": {
+                    "data": {
+                        "id": 43732,
+                        "type": "departments"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6026468/department"
+                    }
+                },
+                "weights": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6026468/weights"
+                    }
+                },
+                "fmcg-campaign": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6026468/fmcg-campaign"
+                    }
+                },
+                "dhz-campaign-brand": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6026468/dhz-campaign-brand"
+                    }
+                },
+                "take-y-products": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6026468/take-y-products"
+                    }
+                },
+                "buy-x-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6026468/buy-x-weight"
+                    }
+                },
+                "take-y-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6026468/take-y-weight"
+                    }
+                }
+            },
+            "links": {
+                "self": "https://api.metromart.com/api/v1/products/6026468"
+            }
+        },
+        {
+            "id": 6026476,
+            "type": "products",
+            "attributes": {
+                "name": "Surf Bar Detergent Purple Blooms Long Bar",
+                "description": "Surf Bar Detergent Purple Blooms Long Bar offers a vibrant and refreshing cleaning experience for your laundry. Infused with the enchanting scent of purple blooms, this long-lasting detergent bar ensures your clothes are not only clean but also carry a delightful fragrance. Ideal for both hand washing and machine use, it provides an effective solution to remove dirt and stains while being gentle on fabrics.",
+                "size": "380 g",
+                "sold-as": null,
+                "amount-in-cents": 2850,
+                "base-amount-in-cents": 2850,
+                "percent-off": null,
+                "bulk": false,
+                "bulk-quantity-threshold": 0,
+                "image-url": "https://img.imageboss.me/metromart/cdn/products/6026476/image-1745995031.jpg",
+                "image-740x740": "https://img.imageboss.me/metromart/height/740/products/6026476/image-1745995031.jpg",
+                "weight-multiplier": null,
+                "weight-metric": null,
+                "status": "available",
+                "alcoholic": false,
+                "require-legal-age": false,
+                "delicate": false,
+                "max-items-count": 20,
+                "priority": 0,
+                "weighted": false,
+                "buy-x-take-y": false,
+                "buy-x": null,
+                "take-y": null,
+                "weighted-disclaimer": null,
+                "dhz-campaign-brand-priority": null,
+                "sari-sari-max-items-count": 1000,
+                "business-max-items-count": 999999
+            },
+            "relationships": {
+                "shop": {
+                    "data": {
+                        "id": 2106,
+                        "type": "shops"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6026476/shop"
+                    }
+                },
+                "aisle": {
+                    "data": {
+                        "id": 174570,
+                        "type": "aisles"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6026476/aisle"
+                    }
+                },
+                "department": {
+                    "data": {
+                        "id": 43732,
+                        "type": "departments"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6026476/department"
+                    }
+                },
+                "weights": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6026476/weights"
+                    }
+                },
+                "fmcg-campaign": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6026476/fmcg-campaign"
+                    }
+                },
+                "dhz-campaign-brand": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6026476/dhz-campaign-brand"
+                    }
+                },
+                "take-y-products": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6026476/take-y-products"
+                    }
+                },
+                "buy-x-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6026476/buy-x-weight"
+                    }
+                },
+                "take-y-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6026476/take-y-weight"
+                    }
+                }
+            },
+            "links": {
+                "self": "https://api.metromart.com/api/v1/products/6026476"
+            }
+        },
+        {
+            "id": 6026475,
+            "type": "products",
+            "attributes": {
+                "name": "Surf Bar Detergent Purple Blooms Jumbo Cut",
+                "description": "Surf Bar Detergent Purple Blooms Jumbo Cut is a powerful laundry detergent designed to provide a deep clean while leaving your clothes with a fresh, floral scent. This jumbo cut bar is perfect for large families or those who frequently tackle heavy loads of laundry, ensuring long-lasting use and effective stain removal.",
+                "size": "120 g x 3 pcs",
+                "sold-as": null,
+                "amount-in-cents": 3450,
+                "base-amount-in-cents": 3450,
+                "percent-off": null,
+                "bulk": false,
+                "bulk-quantity-threshold": 0,
+                "image-url": "https://img.imageboss.me/metromart/cdn/products/6026475/image-1745995031.jpg",
+                "image-740x740": "https://img.imageboss.me/metromart/height/740/products/6026475/image-1745995031.jpg",
+                "weight-multiplier": null,
+                "weight-metric": null,
+                "status": "available",
+                "alcoholic": false,
+                "require-legal-age": false,
+                "delicate": false,
+                "max-items-count": 20,
+                "priority": 0,
+                "weighted": false,
+                "buy-x-take-y": false,
+                "buy-x": null,
+                "take-y": null,
+                "weighted-disclaimer": null,
+                "dhz-campaign-brand-priority": null,
+                "sari-sari-max-items-count": 1000,
+                "business-max-items-count": 999999
+            },
+            "relationships": {
+                "shop": {
+                    "data": {
+                        "id": 2106,
+                        "type": "shops"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6026475/shop"
+                    }
+                },
+                "aisle": {
+                    "data": {
+                        "id": 174570,
+                        "type": "aisles"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6026475/aisle"
+                    }
+                },
+                "department": {
+                    "data": {
+                        "id": 43732,
+                        "type": "departments"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6026475/department"
+                    }
+                },
+                "weights": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6026475/weights"
+                    }
+                },
+                "fmcg-campaign": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6026475/fmcg-campaign"
+                    }
+                },
+                "dhz-campaign-brand": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6026475/dhz-campaign-brand"
+                    }
+                },
+                "take-y-products": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6026475/take-y-products"
+                    }
+                },
+                "buy-x-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6026475/buy-x-weight"
+                    }
+                },
+                "take-y-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6026475/take-y-weight"
+                    }
+                }
+            },
+            "links": {
+                "self": "https://api.metromart.com/api/v1/products/6026475"
+            }
+        },
+        {
+            "id": 5858287,
+            "type": "products",
+            "attributes": {
+                "name": "Tide Powder Original Scent Perfect Clean",
+                "description": "Tide Powder Original Scent Perfect Clean delivers a powerful clean with the refreshing scent you love. This laundry detergent effectively removes dirt and stains, ensuring your clothes remain bright and fresh. Perfect for everyday laundry needs, its formula works in all water temperatures and is safe for both colored and white fabrics. Experience the trusted cleaning power of Tide with every wash.",
+                "size": "1.19 kg",
+                "sold-as": null,
+                "amount-in-cents": 26675,
+                "base-amount-in-cents": 26675,
+                "percent-off": null,
+                "bulk": false,
+                "bulk-quantity-threshold": 0,
+                "image-url": "https://img.imageboss.me/metromart/cdn/products/5858287/image-1731908048.jpg",
+                "image-740x740": "https://img.imageboss.me/metromart/height/740/products/5858287/image-1731908048.jpg",
+                "weight-multiplier": null,
+                "weight-metric": null,
+                "status": "available",
+                "alcoholic": false,
+                "require-legal-age": false,
+                "delicate": false,
+                "max-items-count": 20,
+                "priority": 0,
+                "weighted": false,
+                "buy-x-take-y": false,
+                "buy-x": null,
+                "take-y": null,
+                "weighted-disclaimer": null,
+                "dhz-campaign-brand-priority": null,
+                "sari-sari-max-items-count": 1000,
+                "business-max-items-count": 999999
+            },
+            "relationships": {
+                "shop": {
+                    "data": {
+                        "id": 2106,
+                        "type": "shops"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858287/shop"
+                    }
+                },
+                "aisle": {
+                    "data": {
+                        "id": 174570,
+                        "type": "aisles"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858287/aisle"
+                    }
+                },
+                "department": {
+                    "data": {
+                        "id": 43732,
+                        "type": "departments"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858287/department"
+                    }
+                },
+                "weights": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858287/weights"
+                    }
+                },
+                "fmcg-campaign": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858287/fmcg-campaign"
+                    }
+                },
+                "dhz-campaign-brand": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858287/dhz-campaign-brand"
+                    }
+                },
+                "take-y-products": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858287/take-y-products"
+                    }
+                },
+                "buy-x-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858287/buy-x-weight"
+                    }
+                },
+                "take-y-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858287/take-y-weight"
+                    }
+                }
+            },
+            "links": {
+                "self": "https://api.metromart.com/api/v1/products/5858287"
+            }
+        },
+        {
+            "id": 5856673,
+            "type": "products",
+            "attributes": {
+                "name": "Pride Detergent Powder with Fabric Conditioner",
+                "description": "Pride Detergent Powder with Fabric Conditioner offers a powerful clean while ensuring your clothes remain soft and fresh. Specially formulated to tackle tough stains, it also provides the added benefit of fabric conditioning, leaving your garments feeling luxurious and smelling delightful. Ideal for both regular and delicate fabrics, this detergent is a must-have for every household seeking efficiency and quality in laundry care.",
+                "size": "2 kg",
+                "sold-as": null,
+                "amount-in-cents": 19900,
+                "base-amount-in-cents": 19900,
+                "percent-off": null,
+                "bulk": false,
+                "bulk-quantity-threshold": 0,
+                "image-url": "https://img.imageboss.me/metromart/cdn/products/5856673/image-1731907970.jpg",
+                "image-740x740": "https://img.imageboss.me/metromart/height/740/products/5856673/image-1731907970.jpg",
+                "weight-multiplier": null,
+                "weight-metric": null,
+                "status": "available",
+                "alcoholic": false,
+                "require-legal-age": false,
+                "delicate": false,
+                "max-items-count": 20,
+                "priority": 0,
+                "weighted": false,
+                "buy-x-take-y": false,
+                "buy-x": null,
+                "take-y": null,
+                "weighted-disclaimer": null,
+                "dhz-campaign-brand-priority": null,
+                "sari-sari-max-items-count": 1000,
+                "business-max-items-count": 999999
+            },
+            "relationships": {
+                "shop": {
+                    "data": {
+                        "id": 2106,
+                        "type": "shops"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856673/shop"
+                    }
+                },
+                "aisle": {
+                    "data": {
+                        "id": 174570,
+                        "type": "aisles"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856673/aisle"
+                    }
+                },
+                "department": {
+                    "data": {
+                        "id": 43732,
+                        "type": "departments"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856673/department"
+                    }
+                },
+                "weights": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856673/weights"
+                    }
+                },
+                "fmcg-campaign": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856673/fmcg-campaign"
+                    }
+                },
+                "dhz-campaign-brand": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856673/dhz-campaign-brand"
+                    }
+                },
+                "take-y-products": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856673/take-y-products"
+                    }
+                },
+                "buy-x-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856673/buy-x-weight"
+                    }
+                },
+                "take-y-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856673/take-y-weight"
+                    }
+                }
+            },
+            "links": {
+                "self": "https://api.metromart.com/api/v1/products/5856673"
+            }
+        },
+        {
+            "id": 5858497,
+            "type": "products",
+            "attributes": {
+                "name": "Surf Fabric Conditioner Luxe Perfume Refill",
+                "description": "Surf Fabric Conditioner Luxe Perfume Refill offers a luxurious way to give your laundry a fresh and sophisticated scent. Infused with premium fragrances, it leaves clothes feeling soft and smelling delightful. The convenient refill pack is designed to reduce waste and ensure your fabrics are treated with care, maintaining their vibrancy and texture.",
+                "size": "1.48 L",
+                "sold-as": null,
+                "amount-in-cents": 26050,
+                "base-amount-in-cents": 26050,
+                "percent-off": null,
+                "bulk": false,
+                "bulk-quantity-threshold": 0,
+                "image-url": "https://img.imageboss.me/metromart/cdn/products/5858497/image-1731908060.jpg",
+                "image-740x740": "https://img.imageboss.me/metromart/height/740/products/5858497/image-1731908060.jpg",
+                "weight-multiplier": null,
+                "weight-metric": null,
+                "status": "available",
+                "alcoholic": false,
+                "require-legal-age": false,
+                "delicate": false,
+                "max-items-count": 20,
+                "priority": 0,
+                "weighted": false,
+                "buy-x-take-y": false,
+                "buy-x": null,
+                "take-y": null,
+                "weighted-disclaimer": null,
+                "dhz-campaign-brand-priority": null,
+                "sari-sari-max-items-count": 1000,
+                "business-max-items-count": 999999
+            },
+            "relationships": {
+                "shop": {
+                    "data": {
+                        "id": 2106,
+                        "type": "shops"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858497/shop"
+                    }
+                },
+                "aisle": {
+                    "data": {
+                        "id": 174570,
+                        "type": "aisles"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858497/aisle"
+                    }
+                },
+                "department": {
+                    "data": {
+                        "id": 43732,
+                        "type": "departments"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858497/department"
+                    }
+                },
+                "weights": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858497/weights"
+                    }
+                },
+                "fmcg-campaign": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858497/fmcg-campaign"
+                    }
+                },
+                "dhz-campaign-brand": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858497/dhz-campaign-brand"
+                    }
+                },
+                "take-y-products": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858497/take-y-products"
+                    }
+                },
+                "buy-x-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858497/buy-x-weight"
+                    }
+                },
+                "take-y-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858497/take-y-weight"
+                    }
+                }
+            },
+            "links": {
+                "self": "https://api.metromart.com/api/v1/products/5858497"
+            }
+        },
+        {
+            "id": 5856572,
+            "type": "products",
+            "attributes": {
+                "name": "Surf Powder Detergent Blossom Pouch",
+                "description": "Experience the vibrant freshness of Surf Powder Detergent Blossom Pouch, designed to remove tough stains while leaving your clothes smelling like a field of blooming flowers. Its powerful formula ensures a deep clean, making laundry day a breeze. Ideal for both colors and whites, this detergent is perfect for families seeking reliable and effective cleaning power.",
+                "size": "2.2 kg",
+                "sold-as": null,
+                "amount-in-cents": 22175,
+                "base-amount-in-cents": 22175,
+                "percent-off": null,
+                "bulk": false,
+                "bulk-quantity-threshold": 0,
+                "image-url": "https://img.imageboss.me/metromart/cdn/products/5856572/image-1731907964.jpg",
+                "image-740x740": "https://img.imageboss.me/metromart/height/740/products/5856572/image-1731907964.jpg",
+                "weight-multiplier": null,
+                "weight-metric": null,
+                "status": "available",
+                "alcoholic": false,
+                "require-legal-age": false,
+                "delicate": false,
+                "max-items-count": 20,
+                "priority": 0,
+                "weighted": false,
+                "buy-x-take-y": false,
+                "buy-x": null,
+                "take-y": null,
+                "weighted-disclaimer": null,
+                "dhz-campaign-brand-priority": null,
+                "sari-sari-max-items-count": 1000,
+                "business-max-items-count": 999999
+            },
+            "relationships": {
+                "shop": {
+                    "data": {
+                        "id": 2106,
+                        "type": "shops"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856572/shop"
+                    }
+                },
+                "aisle": {
+                    "data": {
+                        "id": 174570,
+                        "type": "aisles"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856572/aisle"
+                    }
+                },
+                "department": {
+                    "data": {
+                        "id": 43732,
+                        "type": "departments"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856572/department"
+                    }
+                },
+                "weights": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856572/weights"
+                    }
+                },
+                "fmcg-campaign": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856572/fmcg-campaign"
+                    }
+                },
+                "dhz-campaign-brand": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856572/dhz-campaign-brand"
+                    }
+                },
+                "take-y-products": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856572/take-y-products"
+                    }
+                },
+                "buy-x-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856572/buy-x-weight"
+                    }
+                },
+                "take-y-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856572/take-y-weight"
+                    }
+                }
+            },
+            "links": {
+                "self": "https://api.metromart.com/api/v1/products/5856572"
+            }
+        },
+        {
+            "id": 5856508,
+            "type": "products",
+            "attributes": {
+                "name": "Calla Detergent Powder Rose Garden",
+                "description": "Calla Detergent Powder Rose Garden offers a fresh and enchanting fragrance inspired by a blooming rose garden. Its powerful cleaning formula ensures your clothes are spotless and vibrant after every wash. Designed for both hand and machine washing, it provides a gentle touch on fabrics while effectively removing stubborn stains, leaving your laundry smelling delightful and feeling fresh.",
+                "size": "100 g x 6 pcs",
+                "sold-as": null,
+                "amount-in-cents": 7675,
+                "base-amount-in-cents": 7675,
+                "percent-off": null,
+                "bulk": false,
+                "bulk-quantity-threshold": 0,
+                "image-url": "https://img.imageboss.me/metromart/cdn/products/5856508/image-1731907960.jpg",
+                "image-740x740": "https://img.imageboss.me/metromart/height/740/products/5856508/image-1731907960.jpg",
+                "weight-multiplier": null,
+                "weight-metric": null,
+                "status": "available",
+                "alcoholic": false,
+                "require-legal-age": false,
+                "delicate": false,
+                "max-items-count": 20,
+                "priority": 0,
+                "weighted": false,
+                "buy-x-take-y": false,
+                "buy-x": null,
+                "take-y": null,
+                "weighted-disclaimer": null,
+                "dhz-campaign-brand-priority": null,
+                "sari-sari-max-items-count": 1000,
+                "business-max-items-count": 999999
+            },
+            "relationships": {
+                "shop": {
+                    "data": {
+                        "id": 2106,
+                        "type": "shops"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856508/shop"
+                    }
+                },
+                "aisle": {
+                    "data": {
+                        "id": 174570,
+                        "type": "aisles"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856508/aisle"
+                    }
+                },
+                "department": {
+                    "data": {
+                        "id": 43732,
+                        "type": "departments"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856508/department"
+                    }
+                },
+                "weights": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856508/weights"
+                    }
+                },
+                "fmcg-campaign": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856508/fmcg-campaign"
+                    }
+                },
+                "dhz-campaign-brand": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856508/dhz-campaign-brand"
+                    }
+                },
+                "take-y-products": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856508/take-y-products"
+                    }
+                },
+                "buy-x-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856508/buy-x-weight"
+                    }
+                },
+                "take-y-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856508/take-y-weight"
+                    }
+                }
+            },
+            "links": {
+                "self": "https://api.metromart.com/api/v1/products/5856508"
+            }
+        },
+        {
+            "id": 5858429,
+            "type": "products",
+            "attributes": {
+                "name": "Calla Detergent Powder Rose Garden",
+                "description": "Calla Detergent Powder Rose Garden offers a fresh and delightful scent of blooming roses while ensuring your clothes are impeccably clean. Its advanced formula tackles tough stains and dirt, leaving your laundry bright and refreshed with every wash. Ideal for both hand and machine washing, this detergent promises long-lasting fragrance and vibrant colors.",
+                "size": "1.6 kg",
+                "sold-as": null,
+                "amount-in-cents": 18475,
+                "base-amount-in-cents": 18475,
+                "percent-off": null,
+                "bulk": false,
+                "bulk-quantity-threshold": 0,
+                "image-url": "https://img.imageboss.me/metromart/cdn/products/5858429/image-1731908056.jpg",
+                "image-740x740": "https://img.imageboss.me/metromart/height/740/products/5858429/image-1731908056.jpg",
+                "weight-multiplier": null,
+                "weight-metric": null,
+                "status": "available",
+                "alcoholic": false,
+                "require-legal-age": false,
+                "delicate": false,
+                "max-items-count": 20,
+                "priority": 0,
+                "weighted": false,
+                "buy-x-take-y": false,
+                "buy-x": null,
+                "take-y": null,
+                "weighted-disclaimer": null,
+                "dhz-campaign-brand-priority": null,
+                "sari-sari-max-items-count": 1000,
+                "business-max-items-count": 999999
+            },
+            "relationships": {
+                "shop": {
+                    "data": {
+                        "id": 2106,
+                        "type": "shops"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858429/shop"
+                    }
+                },
+                "aisle": {
+                    "data": {
+                        "id": 174570,
+                        "type": "aisles"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858429/aisle"
+                    }
+                },
+                "department": {
+                    "data": {
+                        "id": 43732,
+                        "type": "departments"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858429/department"
+                    }
+                },
+                "weights": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858429/weights"
+                    }
+                },
+                "fmcg-campaign": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858429/fmcg-campaign"
+                    }
+                },
+                "dhz-campaign-brand": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858429/dhz-campaign-brand"
+                    }
+                },
+                "take-y-products": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858429/take-y-products"
+                    }
+                },
+                "buy-x-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858429/buy-x-weight"
+                    }
+                },
+                "take-y-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858429/take-y-weight"
+                    }
+                }
+            },
+            "links": {
+                "self": "https://api.metromart.com/api/v1/products/5858429"
+            }
+        },
+        {
+            "id": 6027782,
+            "type": "products",
+            "attributes": {
+                "name": "Ariel Liquid Detergent Refill Sunrise Fresh",
+                "description": "Ariel Liquid Detergent Refill Sunrise Fresh offers a powerful clean with a refreshing scent. This liquid detergent is designed to tackle tough stains while leaving your clothes smelling like a crisp morning. Its concentrated formula ensures effective cleaning in every wash, maintaining the vibrancy and freshness of your garments. Ideal for both standard and HE washing machines, it provides a convenient and eco-friendly refill option.",
+                "size": "730 g",
+                "sold-as": null,
+                "amount-in-cents": 18000,
+                "base-amount-in-cents": 18000,
+                "percent-off": null,
+                "bulk": false,
+                "bulk-quantity-threshold": 0,
+                "image-url": "https://img.imageboss.me/metromart/cdn/products/6027782/image-1745995169.jpg",
+                "image-740x740": "https://img.imageboss.me/metromart/height/740/products/6027782/image-1745995169.jpg",
+                "weight-multiplier": null,
+                "weight-metric": null,
+                "status": "available",
+                "alcoholic": false,
+                "require-legal-age": false,
+                "delicate": false,
+                "max-items-count": 20,
+                "priority": 0,
+                "weighted": false,
+                "buy-x-take-y": false,
+                "buy-x": null,
+                "take-y": null,
+                "weighted-disclaimer": null,
+                "dhz-campaign-brand-priority": null,
+                "sari-sari-max-items-count": 1000,
+                "business-max-items-count": 999999
+            },
+            "relationships": {
+                "shop": {
+                    "data": {
+                        "id": 2106,
+                        "type": "shops"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6027782/shop"
+                    }
+                },
+                "aisle": {
+                    "data": {
+                        "id": 174570,
+                        "type": "aisles"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6027782/aisle"
+                    }
+                },
+                "department": {
+                    "data": {
+                        "id": 43732,
+                        "type": "departments"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6027782/department"
+                    }
+                },
+                "weights": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6027782/weights"
+                    }
+                },
+                "fmcg-campaign": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6027782/fmcg-campaign"
+                    }
+                },
+                "dhz-campaign-brand": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6027782/dhz-campaign-brand"
+                    }
+                },
+                "take-y-products": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6027782/take-y-products"
+                    }
+                },
+                "buy-x-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6027782/buy-x-weight"
+                    }
+                },
+                "take-y-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/6027782/take-y-weight"
+                    }
+                }
+            },
+            "links": {
+                "self": "https://api.metromart.com/api/v1/products/6027782"
+            }
+        },
+        {
+            "id": 5858565,
+            "type": "products",
+            "attributes": {
+                "name": "Zonrox All Purpose Cleaner Floral Blast",
+                "description": "Zonrox All Purpose Cleaner Floral Blast is a versatile cleaning solution designed to tackle a wide range of surfaces while leaving a refreshing floral scent. Its powerful formula effectively removes dirt, grime, and stains, ensuring a sparkling clean home environment. Perfect for kitchens, bathrooms, and floors, this cleaner makes household chores a breeze with its pleasant fragrance and reliable performance.",
+                "size": "900 ml",
+                "sold-as": null,
+                "amount-in-cents": 11350,
+                "base-amount-in-cents": 11350,
+                "percent-off": null,
+                "bulk": false,
+                "bulk-quantity-threshold": 0,
+                "image-url": "https://img.imageboss.me/metromart/cdn/products/5858565/image-1731908064.jpg",
+                "image-740x740": "https://img.imageboss.me/metromart/height/740/products/5858565/image-1731908064.jpg",
+                "weight-multiplier": null,
+                "weight-metric": null,
+                "status": "available",
+                "alcoholic": false,
+                "require-legal-age": false,
+                "delicate": false,
+                "max-items-count": 20,
+                "priority": 0,
+                "weighted": false,
+                "buy-x-take-y": false,
+                "buy-x": null,
+                "take-y": null,
+                "weighted-disclaimer": null,
+                "dhz-campaign-brand-priority": null,
+                "sari-sari-max-items-count": 1000,
+                "business-max-items-count": 999999
+            },
+            "relationships": {
+                "shop": {
+                    "data": {
+                        "id": 2106,
+                        "type": "shops"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858565/shop"
+                    }
+                },
+                "aisle": {
+                    "data": {
+                        "id": 174570,
+                        "type": "aisles"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858565/aisle"
+                    }
+                },
+                "department": {
+                    "data": {
+                        "id": 43732,
+                        "type": "departments"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858565/department"
+                    }
+                },
+                "weights": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858565/weights"
+                    }
+                },
+                "fmcg-campaign": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858565/fmcg-campaign"
+                    }
+                },
+                "dhz-campaign-brand": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858565/dhz-campaign-brand"
+                    }
+                },
+                "take-y-products": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858565/take-y-products"
+                    }
+                },
+                "buy-x-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858565/buy-x-weight"
+                    }
+                },
+                "take-y-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858565/take-y-weight"
+                    }
+                }
+            },
+            "links": {
+                "self": "https://api.metromart.com/api/v1/products/5858565"
+            }
+        },
+        {
+            "id": 5857233,
+            "type": "products",
+            "attributes": {
+                "name": "Champion Liquid Detergent Supra White Refill",
+                "description": "Champion Liquid Detergent Supra White Refill is designed to deliver exceptional cleaning power for your white garments. This concentrated formula effectively removes tough stains while keeping your clothes bright and fresh. Its convenient refill packaging is environmentally friendly and easy to use, making it perfect for regular laundry needs.",
+                "size": "1 L",
+                "sold-as": null,
+                "amount-in-cents": 10275,
+                "base-amount-in-cents": 10275,
+                "percent-off": null,
+                "bulk": false,
+                "bulk-quantity-threshold": 0,
+                "image-url": "https://img.imageboss.me/metromart/cdn/products/5857233/image-1731907996.jpg",
+                "image-740x740": "https://img.imageboss.me/metromart/height/740/products/5857233/image-1731907996.jpg",
+                "weight-multiplier": null,
+                "weight-metric": null,
+                "status": "available",
+                "alcoholic": false,
+                "require-legal-age": false,
+                "delicate": false,
+                "max-items-count": 20,
+                "priority": 0,
+                "weighted": false,
+                "buy-x-take-y": false,
+                "buy-x": null,
+                "take-y": null,
+                "weighted-disclaimer": null,
+                "dhz-campaign-brand-priority": null,
+                "sari-sari-max-items-count": 1000,
+                "business-max-items-count": 999999
+            },
+            "relationships": {
+                "shop": {
+                    "data": {
+                        "id": 2106,
+                        "type": "shops"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5857233/shop"
+                    }
+                },
+                "aisle": {
+                    "data": {
+                        "id": 174570,
+                        "type": "aisles"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5857233/aisle"
+                    }
+                },
+                "department": {
+                    "data": {
+                        "id": 43732,
+                        "type": "departments"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5857233/department"
+                    }
+                },
+                "weights": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5857233/weights"
+                    }
+                },
+                "fmcg-campaign": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5857233/fmcg-campaign"
+                    }
+                },
+                "dhz-campaign-brand": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5857233/dhz-campaign-brand"
+                    }
+                },
+                "take-y-products": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5857233/take-y-products"
+                    }
+                },
+                "buy-x-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5857233/buy-x-weight"
+                    }
+                },
+                "take-y-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5857233/take-y-weight"
+                    }
+                }
+            },
+            "links": {
+                "self": "https://api.metromart.com/api/v1/products/5857233"
+            }
+        },
+        {
+            "id": 5856800,
+            "type": "products",
+            "attributes": {
+                "name": "Zonrox Bleach Original",
+                "description": "Zonrox Bleach Original is a powerful cleaning solution designed to tackle tough stains and disinfect surfaces throughout your home. Its versatile formula is effective on a variety of surfaces, making it an essential product for maintaining cleanliness and hygiene. Whether you are dealing with laundry, kitchen surfaces, or bathroom tiles, Zonrox Bleach Original is a reliable choice for ensuring a spotless and germ-free environment.",
+                "size": "1 Gallon",
+                "sold-as": null,
+                "amount-in-cents": 14775,
+                "base-amount-in-cents": 14775,
+                "percent-off": null,
+                "bulk": false,
+                "bulk-quantity-threshold": 0,
+                "image-url": "https://img.imageboss.me/metromart/cdn/products/5856800/image-1731907977.jpg",
+                "image-740x740": "https://img.imageboss.me/metromart/height/740/products/5856800/image-1731907977.jpg",
+                "weight-multiplier": null,
+                "weight-metric": null,
+                "status": "available",
+                "alcoholic": false,
+                "require-legal-age": false,
+                "delicate": false,
+                "max-items-count": 20,
+                "priority": 0,
+                "weighted": false,
+                "buy-x-take-y": false,
+                "buy-x": null,
+                "take-y": null,
+                "weighted-disclaimer": null,
+                "dhz-campaign-brand-priority": null,
+                "sari-sari-max-items-count": 1000,
+                "business-max-items-count": 999999
+            },
+            "relationships": {
+                "shop": {
+                    "data": {
+                        "id": 2106,
+                        "type": "shops"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856800/shop"
+                    }
+                },
+                "aisle": {
+                    "data": {
+                        "id": 174570,
+                        "type": "aisles"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856800/aisle"
+                    }
+                },
+                "department": {
+                    "data": {
+                        "id": 43732,
+                        "type": "departments"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856800/department"
+                    }
+                },
+                "weights": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856800/weights"
+                    }
+                },
+                "fmcg-campaign": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856800/fmcg-campaign"
+                    }
+                },
+                "dhz-campaign-brand": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856800/dhz-campaign-brand"
+                    }
+                },
+                "take-y-products": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856800/take-y-products"
+                    }
+                },
+                "buy-x-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856800/buy-x-weight"
+                    }
+                },
+                "take-y-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5856800/take-y-weight"
+                    }
+                }
+            },
+            "links": {
+                "self": "https://api.metromart.com/api/v1/products/5856800"
+            }
+        },
+        {
+            "id": 5858698,
+            "type": "products",
+            "attributes": {
+                "name": "Surf Powder Detergent Cherry Blossom Pouch",
+                "description": "Experience the fresh and floral scent of cherry blossoms with Surf Powder Detergent Cherry Blossom Pouch. This detergent is designed to provide a powerful clean while leaving your clothes with a long-lasting fragrance. Perfect for both hand washing and machine washing, it dissolves easily in water and works effectively on tough stains, ensuring your laundry looks and smells fantastic with every wash.",
+                "size": "1.1 kg",
+                "sold-as": null,
+                "amount-in-cents": 11175,
+                "base-amount-in-cents": 11175,
+                "percent-off": null,
+                "bulk": false,
+                "bulk-quantity-threshold": 0,
+                "image-url": "https://img.imageboss.me/metromart/cdn/products/5858698/image-1731908071.jpg",
+                "image-740x740": "https://img.imageboss.me/metromart/height/740/products/5858698/image-1731908071.jpg",
+                "weight-multiplier": null,
+                "weight-metric": null,
+                "status": "available",
+                "alcoholic": false,
+                "require-legal-age": false,
+                "delicate": false,
+                "max-items-count": 20,
+                "priority": 0,
+                "weighted": false,
+                "buy-x-take-y": false,
+                "buy-x": null,
+                "take-y": null,
+                "weighted-disclaimer": null,
+                "dhz-campaign-brand-priority": null,
+                "sari-sari-max-items-count": 1000,
+                "business-max-items-count": 999999
+            },
+            "relationships": {
+                "shop": {
+                    "data": {
+                        "id": 2106,
+                        "type": "shops"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858698/shop"
+                    }
+                },
+                "aisle": {
+                    "data": {
+                        "id": 174570,
+                        "type": "aisles"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858698/aisle"
+                    }
+                },
+                "department": {
+                    "data": {
+                        "id": 43732,
+                        "type": "departments"
+                    },
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858698/department"
+                    }
+                },
+                "weights": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858698/weights"
+                    }
+                },
+                "fmcg-campaign": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858698/fmcg-campaign"
+                    }
+                },
+                "dhz-campaign-brand": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858698/dhz-campaign-brand"
+                    }
+                },
+                "take-y-products": {
+                    "data": [],
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858698/take-y-products"
+                    }
+                },
+                "buy-x-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858698/buy-x-weight"
+                    }
+                },
+                "take-y-weight": {
+                    "data": null,
+                    "links": {
+                        "related": "https://api.metromart.com/api/v1/products/5858698/take-y-weight"
+                    }
+                }
+            },
+            "links": {
+                "self": "https://api.metromart.com/api/v1/products/5858698"
+            }
+        }
+    ],
+    "included": [],
+    "meta": {
+        "page": {
+            "number": 1,
+            "size": 30,
+            "total": 6,
+            "count": 167,
+            "prev": null,
+            "next": 2,
+            "first": 1,
+            "last": 6
+        }
+    }
+}
